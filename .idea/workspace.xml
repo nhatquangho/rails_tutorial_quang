@@ -2,122 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e43f42a9-2029-45c6-b1aa-6134604086d9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/config/manifest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/javascripts/cable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/javascripts/channels/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/javascripts/microposts.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/javascripts/users.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/stylesheets/microposts.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/stylesheets/users.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/channels/application_cable/connection.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/controllers/concerns/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/controllers/microposts_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/helpers/microposts_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/helpers/users_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/jobs/application_job.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/mailers/application_mailer.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/models/application_record.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/models/concerns/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/models/micropost.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/layouts/mailer.text.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/microposts/_form.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/microposts/_micropost.json.jbuilder" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/microposts/edit.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/microposts/index.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/microposts/index.json.jbuilder" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/microposts/new.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/microposts/show.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/microposts/show.json.jbuilder" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/users/_form.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/users/_user.json.jbuilder" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/users/edit.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/users/index.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/users/index.json.jbuilder" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/users/new.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/users/show.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/users/show.json.jbuilder" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/bundle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/rails" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/rake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/setup" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/spring" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/update" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/yarn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config.ru" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/application.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/boot.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/cable.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/credentials.yml.enc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/environment.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/environments/development.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/environments/test.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/application_controller_renderer.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/assets.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/content_security_policy.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/cookies_serializer.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/inflections.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/mime_types.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/locales/en.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/puma.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/spring.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/storage.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/migrate/20180606175611_create_users.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/migrate/20180606181120_create_microposts.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/seeds.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/assets/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/tasks/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/log/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/422.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/500.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/application_system_test_case.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/controllers/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/controllers/microposts_controller_test.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/controllers/users_controller_test.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/fixtures/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/fixtures/files/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/fixtures/microposts.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/fixtures/users.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/helpers/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/integration/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/mailers/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/models/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/models/micropost_test.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/models/user_test.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/system/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/system/microposts_test.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/system/users_test.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/test_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/.keep" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/azureSettings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/toy_app.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -294,6 +185,14 @@
       <option name="presentableId" value="Default" />
       <updated>1528306163456</updated>
     </task>
+    <task id="LOCAL-00001" summary="Clean up repository">
+      <created>1528427673382</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528427673382</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -345,6 +244,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Clean up repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clean up repository" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
